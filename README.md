@@ -1,5 +1,5 @@
 # MyAwesomeAnimeList
-These are some awesome animes on which i have wasted my majourity of life
+These are some awesome animes on which i have wasted my majority of life
 
     1. devilman crybaby
     2. fullmetal alchemist
