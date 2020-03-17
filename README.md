@@ -1,4 +1,6 @@
 # MyAwesomeAnimeList
+These are some awesome animes on which i have wasted my majourity of life
+
     1. devilman crybaby
     2. fullmetal alchemist
     3. tokyo ghoul 
