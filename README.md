@@ -1,9 +1,9 @@
 # MyAwesomeAnimeList
-These are some awesome animes on which i have wasted my majority of life
+These are some awesome animes on which I have wasted my majority of life
 
     1. devilman crybaby
-    2. fullmetal alchemist
-    3. tokyo ghoul 
+    2. Fullmetal Alchemist
+    3. Tokyo ghoul 
     4. dragon ball
     5. code geass
     6. death note
@@ -13,13 +13,13 @@ These are some awesome animes on which i have wasted my majority of life
     10. devil may cry
     11. high school dxd
     12. high school of the dead
-    13. kabaneri of thw iron fortess
-    14. vinland saga
+    13. kabaneri of the iron fortress
+    14. Vinland saga
     15. The Rising of the Shield Hero
     16. Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?
     17. That Time I Got Reincarnated as a Slime 
     18. The Seven Deadly Sins 
-    19. hellsling ultimate
+    19. Hellsing ultimate
     20. my hero academia
     21. one punch man
     22. The Promised Neverland
@@ -41,3 +41,9 @@ These are some awesome animes on which i have wasted my majority of life
     38. plunder
     39. elfen lied
     40. goblin slayer
+    41. Fire Force
+    42. Digimon Adventure(2020)
+    43. The God of High School
+    44. Naruto Shippeden 
+    45. Tower of God
+    46. Plunderer
